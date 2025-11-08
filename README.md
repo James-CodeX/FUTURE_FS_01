@@ -2,7 +2,7 @@
 
 This is a personal portfolio website for James Karanja, a full-stack developer. It showcases his skills, projects, and provides contact information.
 
-famous-gumption-cc2bea.netlify.app
+[Live](https://famous-gumption-cc2bea.netlify.app/)
 
 ## Features
 
