@@ -2,6 +2,8 @@
 
 This is a personal portfolio website for James Karanja, a full-stack developer. It showcases his skills, projects, and provides contact information.
 
+famous-gumption-cc2bea.netlify.app
+
 ## Features
 
 - **Animated UI:** The portfolio uses AOS (Animate on Scroll) library for scroll animations and other visual effects.
